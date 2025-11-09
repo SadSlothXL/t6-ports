@@ -1,0 +1,16 @@
+>game,T6
+>iwd,mod
+
+ignore,code_post_gfx_mp
+ignore,common_mp
+ignore,common_patch_mp
+
+localize,mod
+
+material,menu_iw3_m40a3_big
+
+weapon,iw3_m40a3_mp
+soundbank,iw3_m40a3.all
+
+stringtable,mp/statstable.csv
+rawfile,ui_mp/t6/menus/checkclasses.lua

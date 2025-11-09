@@ -1,0 +1,11 @@
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           WEAPON_IW4_BARRETT
+LANG_ENGLISH        "Barrett .50cal"
+
+REFERENCE           WEAPON_BARRETT_DESC
+LANG_ENGLISH        "Semi-automatic (single fire)."
+
+ENDMARKER

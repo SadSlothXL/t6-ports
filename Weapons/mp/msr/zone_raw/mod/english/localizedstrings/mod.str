@@ -1,0 +1,11 @@
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           WEAPON_IW5_MSR
+LANG_ENGLISH        "MSR"
+
+REFERENCE           WEAPON_IW5_MSR_DESC
+LANG_ENGLISH        "Bolt action."
+
+ENDMARKER

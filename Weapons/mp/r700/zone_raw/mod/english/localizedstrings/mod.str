@@ -1,0 +1,11 @@
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           WEAPON_IW3_R700
+LANG_ENGLISH        "R700"
+
+REFERENCE           WEAPON_IW3_R700_DESC
+LANG_ENGLISH        "Bolt-action sniper rifle. Effective at long range."
+
+ENDMARKER

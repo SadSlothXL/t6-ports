@@ -1,0 +1,11 @@
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           WEAPON_T4_KAR98K
+LANG_ENGLISH        "Kar98k"
+
+REFERENCE           WEAPON_T4_KAR98K_DESC
+LANG_ENGLISH        "German bolt action rifle with high power. Effective at long range."
+
+ENDMARKER

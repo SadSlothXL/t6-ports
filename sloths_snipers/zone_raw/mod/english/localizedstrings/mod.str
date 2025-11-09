@@ -1,0 +1,53 @@
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           WEAPON_IW3_M40A3
+LANG_ENGLISH        "M40A3"
+
+REFERENCE           WEAPON_IW3_M40A3_DESC
+LANG_ENGLISH        "Bolt-action sniper rifle. Effective at long range."
+
+REFERENCE           WEAPON_IW3_R700
+LANG_ENGLISH        "R700"
+
+REFERENCE           WEAPON_IW3_R700_DESC
+LANG_ENGLISH        "Bolt-action sniper rifle. Effective at long range."
+
+REFERENCE           WEAPON_T4_KAR98K
+LANG_ENGLISH        "Kar98k"
+
+REFERENCE           WEAPON_T4_KAR98K_DESC
+LANG_ENGLISH        "German bolt action rifle with high power. Effective at long range."
+
+REFERENCE           WEAPON_IW4_BARRETT
+LANG_ENGLISH        "Barrett .50cal"
+
+REFERENCE           WEAPON_IW4_BARRETT_DESC
+LANG_ENGLISH        "Semi-automatic (single fire)."
+
+REFERENCE           WEAPON_IW4_CHEYTAC
+LANG_ENGLISH        "Intervention"
+
+REFERENCE           WEAPON_IW4_CHEYTAC_DESC
+LANG_ENGLISH        "Bolt action."
+
+REFERENCE           WEAPON_T5_L96A1
+LANG_ENGLISH        "L96A1"
+
+REFERENCE           WEAPON_T5_L96A1_DESC
+LANG_ENGLISH        "Bolt action."
+
+REFERENCE           WEAPON_IW5_L118A
+LANG_ENGLISH        "L118A"
+
+REFERENCE           WEAPON_IW5_L118A_DESC
+LANG_ENGLISH        "Bolt action."
+
+REFERENCE           WEAPON_IW5_MSR
+LANG_ENGLISH        "MSR"
+
+REFERENCE           WEAPON_IW5_MSR_DESC
+LANG_ENGLISH        "Bolt action."
+
+ENDMARKER
