@@ -18,3 +18,11 @@ A collection of T6 (BO2) ports by me
 
 - When built a new folder will be created called `zone_out` this is where the .ff (fastfile), IWD and .sabl will be.
 *Note: The current version of OAT (v0.24.1) cant build xanims into the .ff so you will need to move the xanim folder into the IWD*
+
+##
+
+**Credits:**
+
+- The Stig: Modding knowledge
+- CoolJay, Cawldwink: OAT help
+- Laupetin: Creator of OAT
