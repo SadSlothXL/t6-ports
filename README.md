@@ -5,6 +5,8 @@ A collection of T6 (BO2) ports by me
 >
 > For anyone using my ports in their own mods respectfully credit me, thank you!
 
+##
+
 - Download the lastest version of OAT [here](https://github.com/Laupetin/OpenAssetTools)
 
 - Use my dump and build bat to make dumping and building easier 
@@ -17,6 +19,7 @@ A collection of T6 (BO2) ports by me
 - You should now be able to build one of my weapons
 
 - When built a new folder will be created called `zone_out` this is where the .ff (fastfile), IWD and .sabl will be.
+
 *Note: The current version of OAT (v0.24.1) cant build xanims into the .ff so you will need to move the xanim folder into the IWD*
 
 ##
