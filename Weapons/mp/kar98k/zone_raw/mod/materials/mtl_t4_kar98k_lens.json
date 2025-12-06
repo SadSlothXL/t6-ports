@@ -7,15 +7,6 @@
     "constants": [
         {
             "literal": [
-                8.0,
-                8.0,
-                1.0,
-                0.0
-            ],
-            "name": "colorDetailScale"
-        },
-        {
-            "literal": [
                 1.0,
                 1.0,
                 1.0,
@@ -29,7 +20,7 @@
         "10",
         "CASTS_SHADOW"
     ],
-    "layeredSurfaceTypes": 536870925,
+    "layeredSurfaceTypes": 536870940,
     "sortKey": 4,
     "stateBits": [
         {
@@ -158,9 +149,9 @@
         4
     ],
     "stateFlags": 121,
-    "surfaceFlags": 13631488,
-    "surfaceTypeBits": 4096,
-    "techniqueSet": "mc_lit_sm_r0c0n0s0o0_3z86zq2z",
+    "surfaceFlags": 29360128,
+    "surfaceTypeBits": 134217728,
+    "techniqueSet": "mc_lit_sm_r0c0n0s0_zqq1fze7",
     "textureAtlas": {
         "columns": 1,
         "rows": 1
@@ -193,19 +184,6 @@
             "semantic": "normalMap"
         },
         {
-            "image": "$white",
-            "isMatureContent": false,
-            "name": "occlusionMap",
-            "samplerState": {
-                "clampU": false,
-                "clampV": false,
-                "clampW": false,
-                "filter": "aniso4x",
-                "mipMap": "linear"
-            },
-            "semantic": "occlusionMap"
-        },
-        {
             "image": "t4_kar98k_lens_c",
             "isMatureContent": false,
             "name": "colorMap",
@@ -217,19 +195,6 @@
                 "mipMap": "linear"
             },
             "semantic": "colorMap"
-        },
-        {
-            "image": "camo_off_pattern",
-            "isMatureContent": false,
-            "name": "colorDetailMap",
-            "samplerState": {
-                "clampU": false,
-                "clampV": false,
-                "clampW": false,
-                "filter": "aniso4x",
-                "mipMap": "linear"
-            },
-            "semantic": "color10Map"
         }
     ]
 }

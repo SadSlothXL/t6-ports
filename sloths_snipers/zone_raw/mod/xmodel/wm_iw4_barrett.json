@@ -21,7 +21,7 @@
         },
         {
             "distance": 2500.0,
-            "file": "model_export/wm_iw4_barrett_lod2.glb"
+            "file": "model_export/wm_iw4_barrett_lod1.glb"
         }
     ],
     "physPreset": "weapon",

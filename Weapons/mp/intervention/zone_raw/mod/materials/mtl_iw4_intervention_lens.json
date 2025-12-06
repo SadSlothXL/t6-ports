@@ -128,7 +128,7 @@
     },
     "textures": [
         {
-            "image": "~iw4_intervention_lens_s-rgb&~e19ebad0",
+            "image": "iw4_intervention_lens_s",
             "isMatureContent": false,
             "name": "SpecularAndGloss",
             "samplerState": {

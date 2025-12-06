@@ -167,7 +167,7 @@
     },
     "textures": [
         {
-            "image": "~iw4_intervention_laser_s-rgb~4f24fccb",
+            "image": "iw4_intervention_laser_s",
             "isMatureContent": false,
             "name": "specularMap",
             "samplerState": {
@@ -180,7 +180,7 @@
             "semantic": "specularMap"
         },
         {
-            "image": "iw4_intervention_base_n",
+            "image": "iw4_intervention_laser_n",
             "isMatureContent": false,
             "name": "normalMap",
             "samplerState": {
@@ -193,7 +193,7 @@
             "semantic": "normalMap"
         },
         {
-            "image": "$white",
+            "image": "$gray",
             "isMatureContent": false,
             "name": "occlusionMap",
             "samplerState": {

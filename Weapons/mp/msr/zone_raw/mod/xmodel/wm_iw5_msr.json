@@ -21,7 +21,7 @@
         },
         {
             "distance": 2500.0,
-            "file": "model_export/wm_iw5_msr_lod1.glb"
+            "file": "model_export/wm_iw5_msr_lod2.glb"
         }
     ],
     "physPreset": "weapon",

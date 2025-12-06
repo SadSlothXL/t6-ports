@@ -13,15 +13,15 @@
     "lods": [
         {
             "distance": 300.0,
-            "file": "model_export/wm_jw5_l118a.glb"
+            "file": "model_export/wm_iw5_l118a.glb"
         },
         {
             "distance": 800.0,
-            "file": "model_export/wm_jw5_l118a_lod1.glb"
+            "file": "model_export/wm_iw5_l118a_lod1.glb"
         },
         {
             "distance": 2500.0,
-            "file": "model_export/wm_jw5_l118a_lod1.glb"
+            "file": "model_export/wm_iw5_l118a_lod1.glb"
         }
     ],
     "physPreset": "weapon",

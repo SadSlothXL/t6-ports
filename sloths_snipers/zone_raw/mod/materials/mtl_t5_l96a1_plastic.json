@@ -193,7 +193,7 @@
             "semantic": "normalMap"
         },
         {
-            "image": "$white",
+            "image": "$gray",
             "isMatureContent": false,
             "name": "occlusionMap",
             "samplerState": {
@@ -206,7 +206,7 @@
             "semantic": "occlusionMap"
         },
         {
-            "image": "t5_l96a1_base_c",
+            "image": "t5_l96a1_plastic_c",
             "isMatureContent": false,
             "name": "colorMap",
             "samplerState": {
@@ -219,7 +219,7 @@
             "semantic": "colorMap"
         },
         {
-            "image": "camo_off_pattern",
+            "image": "$gray",
             "isMatureContent": false,
             "name": "colorDetailMap",
             "samplerState": {

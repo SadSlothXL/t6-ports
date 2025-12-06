@@ -167,7 +167,7 @@
     },
     "textures": [
         {
-            "image": "~iw4_intervention_scope_s-rgb~a3772243",
+            "image": "iw4_intervention_scope_s",
             "isMatureContent": false,
             "name": "specularMap",
             "samplerState": {
@@ -193,7 +193,7 @@
             "semantic": "normalMap"
         },
         {
-            "image": "$white",
+            "image": "$gray",
             "isMatureContent": false,
             "name": "occlusionMap",
             "samplerState": {

@@ -193,7 +193,7 @@
             "semantic": "normalMap"
         },
         {
-            "image": "$white",
+            "image": "$gray",
             "isMatureContent": false,
             "name": "occlusionMap",
             "samplerState": {
