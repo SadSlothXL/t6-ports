@@ -1,0 +1,11 @@
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           WEAPON_T9_GALLO_BLASTOMATIC_ZM
+LANG_ENGLISH        "Blast-O-Matic"
+
+REFERENCE           WEAPON_T9_GALLO_BLASTOMATIC_ZM_PAP
+LANG_ENGLISH        "H-NGM-N"
+
+ENDMARKER

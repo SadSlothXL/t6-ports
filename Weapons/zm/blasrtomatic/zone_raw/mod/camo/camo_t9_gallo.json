@@ -1,0 +1,602 @@
+{
+    "_game": "t6",
+    "_type": "weaponCamo",
+    "_version": 1,
+    "camoMaterials": [
+        {
+            "materials": [
+                {
+                    "materialOverrides": [],
+                    "shaderConsts": [
+                        1.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "useColorMap": false,
+                    "useNormalMap": true,
+                    "useSpecularMap": false
+                },
+                {
+                    "materialOverrides": [],
+                    "shaderConsts": [
+                        1.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "useColorMap": false,
+                    "useNormalMap": true,
+                    "useSpecularMap": false
+                }
+            ]
+        },
+        {
+            "materials": [
+                {
+                    "materialOverrides": [],
+                    "shaderConsts": [
+                        1.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "useColorMap": false,
+                    "useNormalMap": true,
+                    "useSpecularMap": false
+                },
+                {
+                    "materialOverrides": [],
+                    "shaderConsts": [
+                        1.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "useColorMap": false,
+                    "useNormalMap": true,
+                    "useSpecularMap": false
+                }
+            ]
+        },
+        {
+            "materials": [
+                {
+                    "materialOverrides": [],
+                    "shaderConsts": [
+                        8.0,
+                        8.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "useColorMap": false,
+                    "useNormalMap": false,
+                    "useSpecularMap": false
+                },
+                {
+                    "materialOverrides": [],
+                    "shaderConsts": [
+                        1.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "useColorMap": false,
+                    "useNormalMap": true,
+                    "useSpecularMap": false
+                }
+            ]
+        },
+        {
+            "materials": [
+                {
+                    "materialOverrides": [
+                        {
+                            "baseMaterial": "mtl_t9_gallo_blastomatic_barrel",
+                            "camoMaterial": "mc/mtl_weapon_camo_zombies"
+                        },
+                        {
+                            "baseMaterial": "mtl_t9_gallo_blastomatic_barrel_cover",
+                            "camoMaterial": "mc/mtl_weapon_camo_zombies"
+                        },
+                        {
+                            "baseMaterial": "mtl_t9_gallo_blastomatic_forend",
+                            "camoMaterial": "mc/mtl_weapon_camo_zombies"
+                        },
+                        {
+                            "baseMaterial": "mtl_t9_gallo_blastomatic_lazer",
+                            "camoMaterial": "mc/mtl_weapon_camo_zombies"
+                        },
+                        {
+                            "baseMaterial": "mtl_t9_gallo_blastomatic_misc",
+                            "camoMaterial": "mc/mtl_weapon_camo_zombies"
+                        },
+                        {
+                            "baseMaterial": "mtl_t9_gallo_blastomatic_muzzle",
+                            "camoMaterial": "mc/mtl_weapon_camo_zombies"
+                        },
+                        {
+                            "baseMaterial": "mtl_t9_gallo_blastomatic_pgrip",
+                            "camoMaterial": "mc/mtl_weapon_camo_zombies"
+                        },
+                        {
+                            "baseMaterial": "mtl_t9_gallo_blastomatic_pump",
+                            "camoMaterial": "mc/mtl_weapon_camo_zombies"
+                        },
+                        {
+                            "baseMaterial": "mtl_t9_gallo_blastomatic_stock",
+                            "camoMaterial": "mc/mtl_weapon_camo_zombies"
+                        },
+                        {
+                            "baseMaterial": "mtl_t9_gallo_blastomatic_triggergroup",
+                            "camoMaterial": "mc/mtl_weapon_camo_zombies"
+                        },
+                        {
+                            "baseMaterial": "mtl_t9_gallo_blastomatic_body",
+                            "camoMaterial": "mc/mtl_weapon_camo_zombies"
+                        }
+                    
+                    ],
+                    "shaderConsts": [
+                        3.0,
+                        3.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "useColorMap": false,
+                    "useNormalMap": true,
+                    "useSpecularMap": false
+                }
+            ]
+        },
+        {
+            "materials": [
+                {
+                    "materialOverrides": [],
+                    "shaderConsts": [
+                        1.0,
+                        1.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "useColorMap": false,
+                    "useNormalMap": true,
+                    "useSpecularMap": true
+                },
+                {
+                    "materialOverrides": [],
+                    "shaderConsts": [
+                        1.0,
+                        1.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "useColorMap": false,
+                    "useNormalMap": true,
+                    "useSpecularMap": true
+                }
+            ]
+        },
+        {
+            "materials": [
+                {
+                    "materialOverrides": [],
+                    "shaderConsts": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "useColorMap": false,
+                    "useNormalMap": false,
+                    "useSpecularMap": true
+                },
+                {
+                    "materialOverrides": [],
+                    "shaderConsts": [
+                        1.0,
+                        1.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "useColorMap": false,
+                    "useNormalMap": true,
+                    "useSpecularMap": true
+                }
+            ]
+        },
+        {
+            "materials": [
+                {
+                    "materialOverrides": [],
+                    "shaderConsts": [
+                        1.0,
+                        1.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "useColorMap": false,
+                    "useNormalMap": true,
+                    "useSpecularMap": true
+                },
+                {
+                    "materialOverrides": [],
+                    "shaderConsts": [
+                        1.0,
+                        1.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "useColorMap": false,
+                    "useNormalMap": true,
+                    "useSpecularMap": true
+                }
+            ]
+        },
+        {
+            "materials": [
+                {
+                    "materialOverrides": [],
+                    "shaderConsts": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "useColorMap": false,
+                    "useNormalMap": true,
+                    "useSpecularMap": true
+                },
+                {
+                    "materialOverrides": [],
+                    "shaderConsts": [
+                        10.0,
+                        10.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "useColorMap": false,
+                    "useNormalMap": true,
+                    "useSpecularMap": true
+                }
+            ]
+        },
+        {
+            "materials": [
+                {
+                    "materialOverrides": [
+                        {
+                            "baseMaterial": "mtl_t9_gallo_blastomatic_barrel",
+                            "camoMaterial": "mc/mtl_weapon_camo_zmb_dlc2"
+                        },
+                        {
+                            "baseMaterial": "mtl_t9_gallo_blastomatic_barrel_cover",
+                            "camoMaterial": "mc/mtl_weapon_camo_zmb_dlc2"
+                        },
+                        {
+                            "baseMaterial": "mtl_t9_gallo_blastomatic_body",
+                            "camoMaterial": "mc/mtl_weapon_camo_zmb_dlc2"
+                        },
+                        {
+                            "baseMaterial": "mtl_t9_gallo_blastomatic_misc",
+                            "camoMaterial": "mc/mtl_weapon_camo_zmb_dlc2"
+                        },
+                        {
+                            "baseMaterial": "mtl_t9_gallo_blastomatic_pgrip",
+                            "camoMaterial": "mc/mtl_weapon_camo_zmb_dlc2"
+                        },
+                        {
+                            "baseMaterial": "mtl_t9_gallo_blastomatic_triggergroup",
+                            "camoMaterial": "mc/mtl_weapon_camo_zmb_dlc2"
+                        }
+                    ],
+                    "shaderConsts": [
+                        2.0,
+                        2.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "useColorMap": false,
+                    "useNormalMap": true,
+                    "useSpecularMap": true
+                },
+                {
+                    "materialOverrides": [
+                        {
+                            "baseMaterial": "mtl_t9_gallo_blastomatic_pump",
+                            "camoMaterial": "mc/mtl_weapon_camo_zmb_dlc2_alt"
+                        },
+                        {
+                            "baseMaterial": "mtl_t9_gallo_blastomatic_stock",
+                            "camoMaterial": "mc/mtl_weapon_camo_zmb_dlc2_alt_1"
+                        },
+                        {
+                            "baseMaterial": "mtl_t9_gallo_blastomatic_lazer",
+                            "camoMaterial": "mc/mtl_weapon_camo_zmb_dlc2_alt_1"
+                        },
+                        {
+                            "baseMaterial": "mtl_t9_gallo_blastomatic_muzzle",
+                            "camoMaterial": "mc/mtl_weapon_camo_zmb_dlc2_alt_1"
+                        }
+                    ],
+                    "shaderConsts": [
+                        1.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "useColorMap": false,
+                    "useNormalMap": true,
+                    "useSpecularMap": true
+                }
+            ]
+        },
+        {
+            "materials": [
+                {
+                    "materialOverrides": [],
+                    "shaderConsts": [
+                        1.0,
+                        1.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "useColorMap": false,
+                    "useNormalMap": true,
+                    "useSpecularMap": true
+                },
+                {
+                    "materialOverrides": [],
+                    "shaderConsts": [
+                        1.0,
+                        1.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "useColorMap": false,
+                    "useNormalMap": true,
+                    "useSpecularMap": true
+                }
+            ]
+        },
+        {
+            "materials": [
+                {
+                    "materialOverrides": [],
+                    "shaderConsts": [
+                        1.0,
+                        1.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "useColorMap": false,
+                    "useNormalMap": true,
+                    "useSpecularMap": true
+                },
+                {
+                    "materialOverrides": [],
+                    "shaderConsts": [
+                        10.0,
+                        10.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "useColorMap": false,
+                    "useNormalMap": true,
+                    "useSpecularMap": true
+                }
+            ]
+        },
+        {
+            "materials": [
+                {
+                    "materialOverrides": [],
+                    "shaderConsts": [
+                        1.0,
+                        1.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "useColorMap": false,
+                    "useNormalMap": true,
+                    "useSpecularMap": true
+                },
+                {
+                    "materialOverrides": [],
+                    "shaderConsts": [
+                        1.0,
+                        1.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "useColorMap": false,
+                    "useNormalMap": true,
+                    "useSpecularMap": true
+                }
+            ]
+        },
+        {
+            "materials": [
+                {
+                    "materialOverrides": [
+                        {
+                            "baseMaterial": "mtl_t9_gallo_blastomatic_barrel",
+                            "camoMaterial": "mc/mtl_weapon_camo_3layer"
+                        },
+                        {
+                            "baseMaterial": "mtl_t9_gallo_blastomatic_barrel_cover",
+                            "camoMaterial": "mc/mtl_weapon_camo_3layer"
+                        },
+                        {
+                            "baseMaterial": "mtl_t9_gallo_blastomatic_body",
+                            "camoMaterial": "mc/mtl_weapon_camo_3layer_1"
+                        },
+                        {
+                            "baseMaterial": "mtl_t9_gallo_blastomatic_misc",
+                            "camoMaterial": "mc/mtl_weapon_camo_3layer_1"
+                        },
+                        {
+                            "baseMaterial": "mtl_t9_gallo_blastomatic_pgrip",
+                            "camoMaterial": "mc/mtl_weapon_camo_3layer_1"
+                        },
+                        {
+                            "baseMaterial": "mtl_t9_gallo_blastomatic_triggergroup",
+                            "camoMaterial": "mc/mtl_weapon_camo_3layer_1"
+                        }
+                    ],
+                    "shaderConsts": [
+                        1.2400000095367432,
+                        1.350000023841858,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "useColorMap": false,
+                    "useNormalMap": true,
+                    "useSpecularMap": false
+                },
+                {
+                    "materialOverrides": [
+                        {
+                            "baseMaterial": "mtl_t9_gallo_blastomatic_pump",
+                            "camoMaterial": "mc/mtl_weapon_camo_zmb_dlc4_alt"
+                        },
+                        {
+                            "baseMaterial": "mtl_t9_gallo_blastomatic_stock",
+                            "camoMaterial": "mc/mtl_weapon_camo_zmb_dlc4_alt_1"
+                        },
+                        {
+                            "baseMaterial": "mtl_t9_gallo_blastomatic_lazer",
+                            "camoMaterial": "mc/mtl_weapon_camo_zmb_dlc4_alt_1"
+                        },
+                        {
+                            "baseMaterial": "mtl_t9_gallo_blastomatic_muzzle",
+                            "camoMaterial": "mc/mtl_weapon_camo_zmb_dlc4_alt_1"
+                        }
+                    ],
+                    "shaderConsts": [
+                        6.0,
+                        6.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "useColorMap": false,
+                    "useNormalMap": true,
+                    "useSpecularMap": true
+                }
+            ]
+        }
+    ],
+    "camoSets": [
+        {
+            "patternCamoImage": "t6_camo_devgru_pattern",
+            "patternOffset": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "patternScale": 1.0,
+            "solidCamoImage": "t6_camo_devgru_solid"
+        }
+    ],
+    "patternBaseImage": "camo_off_pattern",
+    "solidBaseImage": "camo_off_solid"
+}
