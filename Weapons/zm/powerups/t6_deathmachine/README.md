@@ -27,5 +27,5 @@ A collection of T6 (BO2) ports by me
 
 **Credits:**
 
-- MJ: Sripts and UI
+- MJ: Scripts and UI
 - Laupetin: Creator of OAT
