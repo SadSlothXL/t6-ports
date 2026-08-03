@@ -11,7 +11,7 @@ A collection of T6 (BO2) ports by me
 
 - Use my dump and build bat to make dumping and building easier 
 (you will need to edit these with your paths).
-  - Note: If you have you're own build bat, load `zm_prison`
+  - Note: If you have your own build bat, load `zm_prison`
 
 - Dump the zones that are ignored in the zone source file e.g `code_post_gfx_zm`, `common_zm` `patch_zm`
 
