@@ -17,11 +17,9 @@ A collection of T6 (BO2) ports by me
 
 - Once dumped move their zone source files into your `zone_source` folder.
 
-- You should now be able to build one of my weapons
+- You should now be able to build the death machine
 
 - When built a new folder will be created called `zone_out` this is where the .ff (fastfile), IWD and .sabl will be.
-
-*Note: The current version of OAT (v0.27.0) cant build xanims into the .ff so you will need to move the xanim folder into the IWD*
 
 ##
 
