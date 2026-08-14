@@ -15,7 +15,7 @@ init()
     level.deathmachine_duration = getdvarintdefault( "sv_deathmachine_duration", 30 );
 
     include_zombie_powerup( "deathmachine" );
-    add_zombie_powerup( "deathmachine", "zombie_pickup_minigun", &"ZOMBIE_POWERUP_MINIGUN", ::drop_deathmachine, 0, 0, 0 );
+    add_zombie_powerup( "deathmachine", "zombie_pickup_minigun", &"ZOMBIE_POWERUP_MINIGUN", ::drop_deathmachine, 1, 0, 0 );
     powerup_set_can_pick_up_in_last_stand( "deathmachine", 0 );
 
     maps\mp\zombies\_zm_spawner::register_zombie_damage_callback( ::deathmachine_damage_response );
@@ -58,7 +58,7 @@ onplayerspawned()
         //self thread powerup_test();
     }
 }
-/*
+
 powerup_test()
 {
     self endon( "disconnect" );
@@ -89,7 +89,7 @@ powerup_test()
 
         wait 0.05;
     }
-}*/
+}
 
 drop_deathmachine()
 {

@@ -6,6 +6,7 @@ ignore,code_post_gfx_zm
 ignore,common_zm
 ignore,patch_zm
 
+script,scripts/zm/deathmachine_powerup.gsc
 rawfile,rumble/heavygun_fire
 rawfile,rumble/heavygun_fire_h.rmb
 rawfile,rumble/heavygun_fire_l.rmb
@@ -14,4 +15,4 @@ material,ui_powerup_deathmachine
 xmodel,zombie_pickup_minigun
 
 weapon,deathmachine_zm
-soundbank,deathmachine_zm.all
+soundbank,mod.all
