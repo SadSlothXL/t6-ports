@@ -8,7 +8,7 @@ ignore,common_patch_mp
 localize,mod
 stringtable,mp/statstable.csv
 rawfile,ui_mp/t6/menus/checkclasses.lua
-soundbank,sloths_snipers.all
+soundbank,mod.all
 
 //m40a3
 material,menu_iw3_m40a3_big
