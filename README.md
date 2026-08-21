@@ -7,7 +7,7 @@ A collection of T6 (BO2) ports by me
 
 # Requirements
 
-- Latest version of OAT [here](https://github.com/Laupetin/OpenAssetTools)
+- Latest version of [OAT](https://github.com/Laupetin/OpenAssetTools)
 
 - Dump and Build bats to make dumping and building easier 
 (you will need to edit these with your paths).
