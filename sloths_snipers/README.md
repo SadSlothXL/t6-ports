@@ -18,7 +18,7 @@ A collection of T6 (BO2) ports by me
 
 - You should now be able to build one of my weapons
 
-- When built a new folder will be created called `zone_out` this is where the .ff (fastfile), IWD and .sabl will be.
+- When built a new folder will be created called `zone_out` this is where the .ff (fastfile), ipak and .sabl will be.
 
 ##
 
